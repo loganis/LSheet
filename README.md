@@ -11,6 +11,7 @@ LSheet
 * Register a [Loganis Account](https://ldash.loganis.com)
 * Add one or more Channels to your Loganis Account.
 * Obtain an API token first for your Loganis Account.
+* Download [sample VBA for Loganis](https://github.com/loganis/LSheet/raw/master/LSheet_v0.1.xlsm)
 * Paste token into Excel.
 * Query GA and FB data into Excel
 * More info can be found at [Loganis Docs](http://docs.loganis.com) site
